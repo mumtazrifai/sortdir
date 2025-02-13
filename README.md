@@ -8,6 +8,6 @@ A short python script that organizes the files in a given directory into new dir
 
 To use the script, simply execute:
 ```
-$ python sortdir path
+$ python src/sortdir.py path
 ```
 ...where `path` is the path to the directory that you want to sort.
